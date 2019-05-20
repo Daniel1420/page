@@ -1,0 +1,76 @@
+body{
+	background-color: #E52377;
+	color:white;
+	font-weight: normal;
+	font-size:15px;
+}
+.list{
+	float: right;
+	margin-top: -30px;
+	
+}
+.list li{
+	list-style: none;
+	display: inline-block;
+	padding-left: 15px;
+	
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.container h3{
+	text-align: center;
+	margin-top: 50px;
+}
+.container p{
+	text-align: center;
+	margin-top: -5px;
+	font-family: Arial, Helvetica, 
+}
+.container2{
+	width: 80%;
+	margin: auto;
+}
+.container2 h3{
+	text-align: center;
+	margin-top: 100px;
+}
+.container2 p{
+	text-align: center;
+	margin-top: -20px;
+}
+.form{
+width: 800px;
+padding-left: 350px;
+
+}
+.form input[type="text"]{
+	padding: 5px;
+	margin-bottom: 20px;
+	width: 50%
+}
+
+
+.form input[type="button"]{
+	color: red;
+	margin-top: 10px;
+	float: middle;
+	margin-left: 80px;
+	
+
+}
+.form input[type="Email"]{
+	margin-bottom: 20px;
+	padding: 5px;
+}
+.form input[type="Subject"]{
+	margin-left: 25px;
+	margin-bottom: 20px;
+	padding: 5px;
+	width: 25%;
+
+
+
+
+
